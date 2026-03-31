@@ -17,12 +17,6 @@ AI Researcher and Data Analyst
 
 ---
 
-## My GitHub Stats
-![Nicolas's GitHub stats](https://github-readme-stats.vercel.app/api?username=beastNico&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beastNico&layout=compact&theme=radical)
-
----
-
 ## Let's Connect!
 * **Email:** [nicolasroy.official@gmail.com](mailto:nicolasroy.official@gmail.com)
 * **LinkedIn:** [linkedin.com/in/nicolas-um](https://linkedin.com/in/nicolas-um)
